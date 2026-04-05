@@ -1,0 +1,4 @@
+interface:
+  display_name: "macOS Icon Polish"
+  short_description: "Fix sharp edges and size in macOS app icons"
+  default_prompt: "Use $macos-app-icon-polish to fix icon sizing, corner softness, and alpha artifacts for my macOS app."
